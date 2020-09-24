@@ -1,0 +1,5 @@
+# ignore file/direcotries list
+ignore.file
+weblogs.txt
+*.log
+logs/
