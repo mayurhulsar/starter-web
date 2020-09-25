@@ -20,4 +20,5 @@
     AI, Machine Learning
     JAVA, Python
     Perl
+    C++
 
