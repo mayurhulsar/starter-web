@@ -19,4 +19,5 @@
     jQuery, Modernizr
     AI, Machine Learning
     JAVA, Python
+    Perl
 
