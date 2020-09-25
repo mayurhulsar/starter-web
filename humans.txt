@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Mayur
+	Ashish
+	John    
 
 # THANKS
 
-    <name>
+    	Leo
 
 # TECHNOLOGY COLOPHON
 
