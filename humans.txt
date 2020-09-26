@@ -21,4 +21,5 @@
     JAVA, Python
     Perl
     C++
+    bash scripting
 
